@@ -1,13 +1,16 @@
 // ==UserScript==
 // @name         ST-Mate
-// @namespace    https://github.com/pocketdeer/st-mate
-// @version      1.8.0
+// @namespace    https://github.com/Pocket-Deer/ST-Mate
+// @downloadURL  https://raw.githubusercontent.com/Pocket-Deer/ST-Mate/main/ST-Mate.user.js
+// @updateURL    https://raw.githubusercontent.com/Pocket-Deer/ST-Mate/main/ST-Mate.user.js
+// @version      1.8.1
 // @description  Steam-Trader Helper
 // @author       Pocket Deer
 // @match        https://steam-trader.com/*
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @grant        GM_registerMenuCommand
+
 // ==/UserScript==
 
 (() => {
