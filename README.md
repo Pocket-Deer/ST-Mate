@@ -25,8 +25,6 @@
 2. Переходим по **RAW‑ссылке** [`ST-Mate.user.js`](https://raw.githubusercontent.com/Pocket-Deer/ST-Mate/main/ST-Mate.user.js) — Tampermonkey автоматически перехватит файл и предложит «Установить».
 3. Перезагружаем вкладку **steam-trader.com** — появится ⚙.
 
-> **Автообновление:** в метаданных скрипта должны присутствовать строки `@downloadURL` **и** `@updateURL`, указывающие на тот же RAW‑URL — Tampermonkey автоматически найдёт и установит новые версии.
-
 ### Ручное обновление
 
 ```
