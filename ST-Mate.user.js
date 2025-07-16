@@ -24,7 +24,7 @@
     format: 'time-date', // 'time-date' | 'date-time'
     blacklist: '',
     ignoreMentions: '0', // '1' | '0'
-    colorNicks:     '1'
+    colorNicks:     '0'
   };
 
   const S = new Proxy(load(), {
