@@ -67,6 +67,13 @@
 
 ---
 
+## Скриншоты
+<img width="1841" height="626" alt="image_2025-07-16_17-33-51" src="https://github.com/user-attachments/assets/dd99662a-a185-4dee-89e5-b5d0efd00c13" />
+<img width="1828" height="621" alt="image_2025-07-16_17-33-51 (2)" src="https://github.com/user-attachments/assets/42c7d395-2bb2-44d6-8223-ff653bb387c3" />
+<img width="1523" height="421" alt="image_2025-07-16_17-33-51 (3)" src="https://github.com/user-attachments/assets/433da2e8-9e24-49ea-a0b1-43b8537cbdc8" />
+
+---
+
 ## 🤝 Вклад
 
 PR и issue приветствуются!
